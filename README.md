@@ -1,6 +1,6 @@
 # Skin Cancer Detection and Classification
 
-This project uses a DenseNet121 model to detect and classify 9 different types of skin cancer from images.
+This project uses a DenseNet121 model to detect and classify 9 different types of skin lesions cancer from images.
 
 ## Table of Contents
 
